@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en"><meta charset="utf-8">
 <title>Privacy Policy – Elite Play</title>
 <body style="max-width:720px;margin:40px auto;font:16px/1.6 -apple-system,Segoe UI,Roboto,Arial">
